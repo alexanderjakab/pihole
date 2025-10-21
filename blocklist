@@ -1,6 +1,6 @@
 youtube-nocookie.com
 (\.|^)www\.youtube\.com$
-www.youtu.be
+(\.|^)www\.youtu\.be$
 ytimg.com
 i.ytimg.com
 googleapis.com
